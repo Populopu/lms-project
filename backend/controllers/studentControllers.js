@@ -147,3 +147,8 @@ exports.uploadStudentAvatar = async (req, res) => {
     res.status(500).json({ message: "Avatar upload failed" });
   }
 };
+
+
+function xyz () {
+  
+}
