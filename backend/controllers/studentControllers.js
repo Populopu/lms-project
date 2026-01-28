@@ -149,6 +149,7 @@ exports.uploadStudentAvatar = async (req, res) => {
 };
 
 
-function xyz () {
+
+function abc () {
   
 }
